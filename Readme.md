@@ -4,10 +4,9 @@
 ![License](https://img.shields.io/badge/license-MIT-orange)
 ![Research](https://img.shields.io/badge/type-academic%20research-purple)
 
-# IFRS 9 SICR Modeling Using a Top-Down Approach and SCR.data
-## Modelagem de SICR no IFRS 9 com Abordagem Top-Down e SCR.data
+## 🇺🇸 EN (PORTUGUESE BELLOW)
 
-## 🇺🇸 EN
+# IFRS 9 SICR Modeling Using a Top-Down Approach and SCR.data
 
 ### Description
 
@@ -98,8 +97,9 @@ ifrs9-sicr-topdown-scr/
 
 Professional Master's Degree in Economics
 
-
 ## 🇧🇷 PTBR
+
+# Modelagem de SICR no IFRS 9 com Abordagem Top-Down e SCR.data
 
 ### Descrição
 
